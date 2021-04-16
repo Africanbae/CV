@@ -1,0 +1,24 @@
+* {
+    background-color: white;
+    margin: 15px;
+}
+.left{
+    margin-right: 70px;
+}
+.wrapper h1{
+    text-align: center;
+    color: cadetblue;
+    padding: 20px;
+    margin: 25px;
+    border: 0;
+}
+.left p {
+    text-align: right;
+    padding: 10px;
+    margin: 0;
+}
+.res {
+    padding: 2px;
+    margin: 0;
+    border: 1px solid white;
+}
